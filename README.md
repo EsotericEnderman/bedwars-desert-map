@@ -1,5 +1,7 @@
 # Bedwars Desert Map
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A desert-themed map for my [Bedwars plugin](https://github.com/EsotericEnderman/bedwars-plugin).
 
 ## License
